@@ -4,6 +4,7 @@
 typedef struct fila{
   int info[tam];
   int inicio;
+  int meio;
   int fim;
 }fila;
 
